@@ -5,8 +5,8 @@
   "main": "main.js",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
+    "dev": "vite --port=3000 --host=0.0.0.0",
+    "build": "vite build -c vite.plugin.config.ts && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
