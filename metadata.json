@@ -1,0 +1,6 @@
+{
+  "name": "Quick Text Highlighter Plugin",
+  "description": "An Obsidian plugin to highlight text with custom colors and styles using simple syntax.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

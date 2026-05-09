@@ -1,0 +1,11 @@
+{
+	"id": "quick-text-highlighter",
+	"name": "Quick Text Highlighter",
+	"version": "1.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "Highlights text using //color:text// syntax without breaking URLs.",
+	"author": "Waghmare",
+	"authorUrl": "https://github.com/sujit-waghmare",
+	"isDesktopOnly": false,
+	"main": "main.js"
+}
