@@ -57,3 +57,7 @@ Append `-t` to the color shortcut:
 
 ## License
 MIT License. Created by [Waghmare](https://github.com/sujit-waghmare).
+
+### Credits
+Created by [Waghmare](https://github.com/sujit-waghmare).
+Folk by [Sowseelyav](https://github.com/ssowseelyav-ops).
