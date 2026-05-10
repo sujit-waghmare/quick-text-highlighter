@@ -3,7 +3,7 @@
 A simple, lightweight Obsidian plugin that allows you to highlight text using a custom syntax: `//settings:your text//`. It supports multiple colors, background styles, underlines, and modifiers.
 
 <p align="center">
-  <img src="https://github.com/sujit-waghmare/quick-text-highlighter/raw/58336171d1bdad18947a56190057c39b3bbccf4b/assets/images/New%20Project%2015%20%5B4A02A97%5D.gif" width="600" alt="Quick Text Highlighter Demo">
+  <img src="https://github.com/sujit-waghmare/quick-text-highlighter/blob/613bd7ba288747ad0a65e379df81b08cf5572fde/assets/images/New%20Project%2016%20%5B2BAC3CC%5D.png" width="600" alt="Quick Text Highlighter Demo">
 </p>
 
 ## Features
@@ -12,6 +12,14 @@ A simple, lightweight Obsidian plugin that allows you to highlight text using a 
 - **Combined Styles**: Mix and match background colors, text colors, and modifiers.
 - **Background vs Text-Only**: Choose whether to color the background or just the text.
 - **Custom Borders & Decorations**: Add borders, double underlines, dots, or "tape" effects.
+
+<details>
+  <summary>Click to view Demo GIF</summary>
+  <p align="center">
+    <img src="https://github.com/sujit-waghmare/quick-text-highlighter/raw/58336171d1bdad18947a56190057c39b3bbccf4b/assets/images/New%20Project%2015%20%5B4A02A97%5D.gif" width="600" alt="Quick Text Highlighter Demo">
+  </p>
+</details>
+
 
 ## Usage
 
