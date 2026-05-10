@@ -8,17 +8,9 @@ To color the text without adding a background or underline, use the color-code f
 * **Blue Text:** //b-t:This text is blue//
 
 ### 📋 Style Matrix
-| Style Type           | Syntax Example           | Result Description               |
-| :------------------- | :----------------------- | :------------------------------- |
-| **Dotted Underline** | //dot:bit brighter//     | Dotted teal underline.           |
-| **Solid Underline**  | //und:world//            | Solid orange underline.          |
-| **Simple Color**     | //r:Red Text//           | Light red background + red text. |
-| **Heavy Modifier**   | //g,h:Heavy Green//      | Stronger background + bold.      |
-| **White Text**       | //b,h,w:White Blue//     | Heavy blue bg + white text.      |
-| **Borders**          | //p,brd:Purple Borders// | Purple side borders only.        |
-| **Tape Style**       | //tape:Evoke memories//  | Highlighted tape effect.         |
+
+![](https://github.com/sujit-waghmare/quick-text-highlighter/blob/58336171d1bdad18947a56190057c39b3bbccf4b/assets/images/New%20Project%2015%20%5B4A02A97%5D.gif)
 
 **Note:** You can combine any modifier. For a **Bold Italic Dotted Underline**, use: $//dot,bold,italic:Styled\ text//$
 which'll rendered as
 //dot,bold,italic:Styled text//.
-
