@@ -9,7 +9,10 @@ To color the text without adding a background or underline, use the color-code f
 
 ### 📋 Style Matrix
 
-![preview](https://github.com/sujit-waghmare/quick-text-highlighter/blob/58336171d1bdad18947a56190057c39b3bbccf4b/assets/images/New%20Project%2015%20%5B4A02A97%5D.gif)
+<p align="center">
+  <img src="https://github.com/sujit-waghmare/quick-text-highlighter/raw/58336171d1bdad18947a56190057c39b3bbccf4b/assets/images/New%20Project%2015%20%5B4A02A97%5D.gif" width="600" alt="Quick Text Highlighter Demo">
+</p>
+
 
 **Note:** You can combine any modifier. For a **Bold Italic Dotted Underline**, use: $//dot,bold,italic:Styled\ text//$
 which'll rendered as
