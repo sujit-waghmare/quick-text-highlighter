@@ -1,0 +1,24 @@
+## 🚀 Usage Guide
+To highlight text, use the //style1,style2:content// syntax.
+
+### 🎨 Text-Only Coloring
+To color the text without adding a background or underline, use the color-code followed by `-t`:
+* **Red Text:** //r-t:This text is red//
+* **Green Text:** //g-t:This text is green//
+* **Blue Text:** //b-t:This text is blue//
+
+### 📋 Style Matrix
+| Style Type           | Syntax Example           | Result Description               |
+| :------------------- | :----------------------- | :------------------------------- |
+| **Dotted Underline** | //dot:bit brighter//     | Dotted teal underline.           |
+| **Solid Underline**  | //und:world//            | Solid orange underline.          |
+| **Simple Color**     | //r:Red Text//           | Light red background + red text. |
+| **Heavy Modifier**   | //g,h:Heavy Green//      | Stronger background + bold.      |
+| **White Text**       | //b,h,w:White Blue//     | Heavy blue bg + white text.      |
+| **Borders**          | //p,brd:Purple Borders// | Purple side borders only.        |
+| **Tape Style**       | //tape:Evoke memories//  | Highlighted tape effect.         |
+
+**Note:** You can combine any modifier. For a **Bold Italic Dotted Underline**, use: $//dot,bold,italic:Styled\ text//$
+which'll rendered as
+//dot,bold,italic:Styled text//.
+
